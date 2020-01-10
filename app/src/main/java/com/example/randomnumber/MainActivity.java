@@ -19,8 +19,9 @@ public class MainActivity extends AppCompatActivity {
     public void changeText(View view){
 
         TextView randomNumberFinal = findViewById(R.id.randomNumber);
-        Random r = new Random();
-        int i1 = r.nextInt(100 -0)+0;
+
+
+        int i1 = new Random().nextInt(999);
 
         randomNumberFinal.setText(String.valueOf(i1));
 
