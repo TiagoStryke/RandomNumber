@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         TextView randomNumberFinal = findViewById(R.id.randomNumber);
 
 
-        int i1 = new Random().nextInt(999);
+        int i1 = new Random().nextInt(1000);
 
         randomNumberFinal.setText(String.valueOf(i1));
 
