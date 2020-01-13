@@ -7,4 +7,4 @@ Little project to start learning android studio
 - Custom icon
 
 
-<img src="https://i.ibb.co/XFxpxsw/Whats-App-Image-2020-01-10-at-3-52-39-PM.jpg" width="40%" height="40%">
+<img src="https://i.ibb.co/YNMQB9V/Whats-App-Image-2020-01-13-at-10-58-02-AM.jpg" width="40%" height="40%">
